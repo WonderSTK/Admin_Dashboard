@@ -27,23 +27,3 @@ Tasks dynamically shift across dashboards for easy project management.<br>
 User profile management and personalized account settings.<br>
 👉 Fully Responsive<br>
 Fluid design adapts across devices to ensure a consistent experience on all screen sizes.<br>
-🚀 Installation<br>
-Clone the repository:</p>
-<p class="has-line-data" data-line-start="33" data-line-end="38">bash<br>
-Copy code<br>
-git clone <a href="https://github.com/WonderSTK/admin_dashboard">https://github.com/WonderSTK/admin_dashboard</a><br>
-cd admin_dashboard<br>
-Install dependencies:</p>
-<p class="has-line-data" data-line-start="39" data-line-end="43">bash<br>
-Copy code<br>
-npm install<br>
-Run the development server:</p>
-<p class="has-line-data" data-line-start="44" data-line-end="48">bash<br>
-Copy code<br>
-npm run dev<br>
-The app will be available at <a href="http://localhost:3000">http://localhost:3000</a>.</p>
-<p class="has-line-data" data-line-start="49" data-line-end="51">📦 Deployment<br>
-You can deploy this project using platforms like:</p>
-<p class="has-line-data" data-line-start="52" data-line-end="57">Vercel<br>
-Netlify<br>
-Render<br>
